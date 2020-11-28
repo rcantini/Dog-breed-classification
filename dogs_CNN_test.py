@@ -1,19 +1,12 @@
-import numpy
 import numpy as np
-from keras.callbacks import EarlyStopping, ModelCheckpoint
 from keras.engine.saving import model_from_json
 from sklearn.metrics import classification_report, confusion_matrix
-from tensorflow import keras
 import os
 import csv
-import random
 import cv2
 from PIL import Image
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
-from keras.layers import Conv2D, MaxPooling2D, Dense, Flatten, Dropout
-from keras.layers.normalization import BatchNormalization
-from keras.models import Sequential
 from keras.utils import to_categorical
 
 
