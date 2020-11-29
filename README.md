@@ -8,7 +8,7 @@ In order to cope with the small amount of traning data, the model exploits three
 - Transfer Learning of a VGG16 CNN model
 - Fine tuning
 
-The obtained model achieves a classification accuracy of 93% on test images.
+The obtained model achieves a classification accuracy of about 93% on test images.
 
 
 
