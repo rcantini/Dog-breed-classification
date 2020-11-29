@@ -5,10 +5,7 @@ The model is aimed at classifying dog images belonging to 2 particular breeds: C
 
 In order to cope with the small amount of traning data, the model exploits three main techniques:
 - Real time data augmentation during training
-- Transfer Learning of a VGG16 CNN model
+- Transfer Learning (VGG16 CNN architecture, ImageNet)
 - Fine tuning
 
 The obtained model achieves a classification accuracy of about 93% on test images.
-
-
-
