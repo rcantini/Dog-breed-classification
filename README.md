@@ -9,3 +9,5 @@ In order to cope with the small amount of traning data, the model exploits three
 - Fine tuning
 
 The obtained model achieved a classification accuracy of about 93% on test images.
+
+Read more about that at https://riccardo-cantini.netlify.app/post/dogbreedclass/
